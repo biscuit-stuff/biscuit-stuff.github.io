@@ -7,5 +7,5 @@ html {
 img#404 {
   margin-top: 50px;
   float: center;
-  left: 50%;
+  align-content: center;
 }
