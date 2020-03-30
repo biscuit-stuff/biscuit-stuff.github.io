@@ -10,5 +10,6 @@ img#404 {
 }
 div.align {
   display: block;
-  align-content: center;
+  left: 50%;
+  top: 20%;
 }
